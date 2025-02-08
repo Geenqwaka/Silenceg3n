@@ -21,6 +21,11 @@ pip install pyaudio pystray pillow
 
 ## Usage
 
+Running the Executable from Releases:
+
+    Download the precompiled silenceg3n.exe from the Releases section of this repository.
+    Simply double-click the .exe file to run the program. No installation required!
+
 1. Once launched, the program will run in the background, generating silence through your device's audio output.
 2. To control the program, use the tray icon:
    - **"Exit"** — Exits the program.
